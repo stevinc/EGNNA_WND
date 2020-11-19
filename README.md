@@ -5,7 +5,7 @@ With these method I am able to exploit not only the node features but also the e
 
 
 ## Model architecture
-![Graph aggregation on embedding features](graph_image.png)
+![Graph aggregation on embedding features](final_graph_model.png)
 
 ## Prerequisites
 * Python >= 3.7
